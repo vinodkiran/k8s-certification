@@ -3,7 +3,7 @@ A set of exercises that helped me prepare for the [Certified Kubernetes Applicat
 
 ### :black_circle: Learning Material
 
-- [ ] Udemy - K8s for beginners (https://www.udemy.com/course/learn-kubernetes/)
+- [X] Udemy - K8s for beginners (https://www.udemy.com/course/learn-kubernetes/)
 - [ ] Udemy - CKAD Course (https://www.udemy.com/course/certified-kubernetes-application-developer/)
 - [ ] Jérôme (@jpetazzo)
     - [ ] https://velocity-2019-11.container.training/#1
