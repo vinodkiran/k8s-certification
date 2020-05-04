@@ -10,6 +10,7 @@ A set of exercises that helped me prepare for the [Certified Kubernetes Applicat
 
 ### :black_circle: Learning Material
 
+- [ ] Four Week Plan to crack CKAD (https://github.com/jbigtani/crack-CKAD)
 - [X] Udemy - K8s for beginners (https://www.udemy.com/course/learn-kubernetes/)
 - [ ] Udemy - CKAD Course (https://www.udemy.com/course/certified-kubernetes-application-developer/)
 - [ ] Udemy - Kubernetes Mastery (https://www.udemy.com/course/kubernetesmastery/)
