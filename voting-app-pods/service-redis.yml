@@ -11,4 +11,5 @@ spec:
     app: example-voting-app
   ports:
   - port: 6379
+    name: redis-something
     targetPort: 6379
