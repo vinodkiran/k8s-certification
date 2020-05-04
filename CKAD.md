@@ -1,4 +1,4 @@
-# k8s-certification 
+# CKAD
 A set of exercises that helped me prepare for the [Certified Kubernetes Application Developer](https://www.cncf.io/certification/ckad/) exam, offered by the Cloud Native Computing Foundation. They may as well serve as learning and practicing with Kubernetes for others.
 
 ### :black_circle: Learning Material
