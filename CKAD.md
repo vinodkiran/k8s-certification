@@ -19,11 +19,12 @@ A set of exercises that helped me prepare for the [Certified Kubernetes Applicat
     - [ ] https://2020-03-qcon.container.training/
 - [ ] https://trainings.kubernauts.sh/ 
 - [ ] https://github.com/dgkanatsios/CKAD-exercises
+- [ ] https://docs.google.com/spreadsheets/d/1hoyNr0xBLKEZNjefiqQTYweGmWQ4Qc-6LVgkuQSm99o/edit?usp=sharing
+
+### :black_circle: Examination Tips
 - [ ] https://github.com/twajr/ckad-prep-notes
 - [ ] https://medium.com/faun/my-story-towards-cka-ckad-and-some-tips-daf495e711a9
 - [ ] https://www.linkedin.com/pulse/kubernetes-certification-cka-ckad-exam-tips-gineesh-madapparambath 
-- [ ] https://docs.google.com/spreadsheets/d/1hoyNr0xBLKEZNjefiqQTYweGmWQ4Qc-6LVgkuQSm99o/edit?usp=sharing
-
 
 ### :black_circle: Online Labs
 - [ ] 1. https://labs.play-with-k8s.com/# 
