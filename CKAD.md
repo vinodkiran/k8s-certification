@@ -10,9 +10,8 @@ A set of exercises that helped me prepare for the [Certified Kubernetes Applicat
 
 ### :black_circle: Learning Material
 
-- [ ] Four Week Plan to crack CKAD (https://github.com/jbigtani/crack-CKAD)
 - [X] Udemy - K8s for beginners (https://www.udemy.com/course/learn-kubernetes/)
-- [ ] Udemy - CKAD Course (https://www.udemy.com/course/certified-kubernetes-application-developer/)
+- [X] Udemy - CKAD Course (https://www.udemy.com/course/certified-kubernetes-application-developer/)
 - [ ] Udemy - Kubernetes Mastery (https://www.udemy.com/course/kubernetesmastery/)
 - [ ] Jérôme (@jpetazzo)
     - [ ] https://velocity-2019-11.container.training/#1
@@ -22,11 +21,37 @@ A set of exercises that helped me prepare for the [Certified Kubernetes Applicat
 - [ ] https://docs.google.com/spreadsheets/d/1hoyNr0xBLKEZNjefiqQTYweGmWQ4Qc-6LVgkuQSm99o/edit?usp=sharing
 
 ### :black_circle: Examination Tips
+- [ ] Four Week Plan to crack CKAD (https://github.com/jbigtani/crack-CKAD)
 - [ ] https://github.com/twajr/ckad-prep-notes
 - [ ] https://medium.com/faun/my-story-towards-cka-ckad-and-some-tips-daf495e711a9
 - [ ] https://www.linkedin.com/pulse/kubernetes-certification-cka-ckad-exam-tips-gineesh-madapparambath 
+- [ ] https://linuxacademy.com/site-content/uploads/2019/04/Kubernetes-Cheat-Sheet_07182019.pdf
 
 ### :black_circle: Online Labs
 - [ ] 1. https://labs.play-with-k8s.com/# 
 - [ ] 2. https://learn.openshift.com/playgrounds/openshift42 
 - [ ] 3. https://killer.sh/  
+
+
+### :red_circle: Other material from github
+https://github.com/nikhilagrawal577/ckad-notes/blob/master/CKAD_bookmarks.html
+
+- [ ] https://github.com/dalmirog/CKADExam 
+- [ ] https://github.com/jrdalino/certified-kubernetes-application-developer-notes
+- [ ] https://github.com/bmuschko/ckad-prep 
+- [ ] https://github.com/darrenda0/certified-k8s-app-dev
+- [ ] https://github.com/dalmirog/CKADExam
+- [ ] https://github.com/bmuschko/ckad-prep
+- [ ] https://github.com/mogueye87/kubernetes-certified-application-developer
+- [ ] https://github.com/Shehanka/CKAD-training
+- [ ] https://github.com/amazingandyyy/k8-cert
+- [ ] https://github.com/mransbro/ckad-study-notes 
+- [ ] https://github.com/johandry/CKAD
+- [ ] https://github.com/nikhilagrawal577/ckad-notes
+- [ ] https://github.com/hhmahmood/KCAD/blob/master/commands.md
+- [ ] https://github.com/josefigueredo/ckad-study-guide
+- [ ] https://github.com/james65535/ckad-study-apps
+
+- [ ] https://github.com/AmundsenJunior/yet-another-ckad-training-resource
+- [ ] https://github.com/AmundsenJunior/yet-another-ckad-training-resource/blob/master/Udemy-CKAD-Practice.md
+- [ ] https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681 
