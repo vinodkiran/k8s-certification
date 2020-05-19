@@ -12,10 +12,11 @@ A set of exercises that helped me prepare for the [Certified Kubernetes Applicat
 
 - [X] Udemy - K8s for beginners (https://www.udemy.com/course/learn-kubernetes/)
 - [X] Udemy - CKAD Course (https://www.udemy.com/course/certified-kubernetes-application-developer/)
+- [X] KodeKloud - Labs - Certified Kubernetes Application Developer (https://kodekloud.com/courses/kubernetes-certification-course-labs)
 - [ ] Udemy - Kubernetes Mastery (https://www.udemy.com/course/kubernetesmastery/)
-- [ ] Jérôme (@jpetazzo)
-    - [ ] https://velocity-2019-11.container.training/#1
-    - [ ] https://2020-03-qcon.container.training/
+- [X] Jérôme (@jpetazzo)
+    - [X] https://velocity-2019-11.container.training/#1
+    - [X] https://2020-03-qcon.container.training/
 - [ ] https://trainings.kubernauts.sh/ 
 - [ ] https://github.com/dgkanatsios/CKAD-exercises
 - [ ] https://docs.google.com/spreadsheets/d/1hoyNr0xBLKEZNjefiqQTYweGmWQ4Qc-6LVgkuQSm99o/edit?usp=sharing
@@ -28,9 +29,9 @@ A set of exercises that helped me prepare for the [Certified Kubernetes Applicat
 - [ ] https://linuxacademy.com/site-content/uploads/2019/04/Kubernetes-Cheat-Sheet_07182019.pdf
 
 ### :black_circle: Online Labs
-- [ ] 1. https://labs.play-with-k8s.com/# 
-- [ ] 2. https://learn.openshift.com/playgrounds/openshift42 
-- [ ] 3. https://killer.sh/  
+- 1. https://labs.play-with-k8s.com/# 
+- 2. https://learn.openshift.com/playgrounds/openshift42 
+- 3. https://killer.sh/  
 
 
 ### :red_circle: Other material from github
