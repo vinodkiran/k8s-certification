@@ -4,10 +4,10 @@ A set of exercises that helped me prepare for the [Certified Kubernetes Applicat
 ## Official Exam Guide
 
 - https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
-    - [X] [Cirrculum] (https://cncf.io/certification/cka-cirriculum)
-    - [X] [Candidate Handbook] (https://training.linuxfoundation.org/go/cka-ckad-candidate-handbook)
-    - [X] [Exam Tips] (http://training.linuxfoundation.org/go//Important-Tips-CKA-CKAD)
-    - [X] [Bookmarks from Kubernetes Docs] (https://github.com/nikhilagrawal577/ckad-notes/blob/master/CKAD_bookmarks.html)
+    - [X] [Cirrculum](https://cncf.io/certification/cka-cirriculum)
+    - [X] [Candidate Handbook](https://training.linuxfoundation.org/go/cka-ckad-candidate-handbook)
+    - [X] [Exam Tips](http://training.linuxfoundation.org/go//Important-Tips-CKA-CKAD)
+    - [X] [Import Bookmarks for Kubernetes Docs](https://github.com/nikhilagrawal577/ckad-notes/blob/master/CKAD_bookmarks.html)
 
 ## Online Learning Material
 
