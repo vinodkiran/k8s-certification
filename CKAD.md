@@ -2,7 +2,6 @@
 A set of exercises that helped me prepare for the [Certified Kubernetes Application Developer](https://www.cncf.io/certification/ckad/) exam, offered by the Cloud Native Computing Foundation. They may as well serve as learning and practicing with Kubernetes for others.
 
 ## Official Exam Guide
-
 - https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
     - [X] [Cirrculum](https://cncf.io/certification/cka-cirriculum)
     - [X] [Candidate Handbook](https://training.linuxfoundation.org/go/cka-ckad-candidate-handbook)
@@ -10,10 +9,10 @@ A set of exercises that helped me prepare for the [Certified Kubernetes Applicat
     - [X] [Import Bookmarks for Kubernetes Docs](https://github.com/nikhilagrawal577/ckad-notes/blob/master/CKAD_bookmarks.html)
 
 ## Online Learning Material
-
 - [X] Udemy - K8s for beginners (https://www.udemy.com/course/learn-kubernetes/)
 - [X] Udemy - CKAD Course (https://www.udemy.com/course/certified-kubernetes-application-developer/)
 - [ ] Udemy - Kubernetes Mastery (https://www.udemy.com/course/kubernetesmastery/)
+- [X] KodeKloud - Labs - Certified Kubernetes Application Developer (https://kodekloud.com/courses/- kubernetes-certification-course-labs)
 - [X] Jérôme (@jpetazzo)
     - [X] https://velocity-2019-11.container.training/#1
     - [X] https://2020-03-qcon.container.training/
@@ -21,14 +20,12 @@ A set of exercises that helped me prepare for the [Certified Kubernetes Applicat
 - [ ] https://docs.google.com/spreadsheets/d/1hoyNr0xBLKEZNjefiqQTYweGmWQ4Qc-6LVgkuQSm99o/edit?usp=sharing
 
 ## Online Labs
-
-- 1. https://labs.play-with-k8s.com/# 
-- 2. https://learn.openshift.com/playgrounds/openshift42 
-- 3. https://killer.sh/  
-- 4. KodeKloud - Labs - Certified Kubernetes Application Developer (https://kodekloud.com/courses/kubernetes-certification-course-labs)
+1. https://labs.play-with-k8s.com/# 
+2. https://learn.openshift.com/playgrounds/openshift42 
+3. https://killer.sh/
 
 ## Practice, Practice, Practice
-
+- [ ] https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681
 - [ ] https://github.com/dgkanatsios/CKAD-exercises
 - [ ] https://github.com/bmuschko/ckad-prep 
 - [ ] https://github.com/twajr/ckad-prep-notes
@@ -41,7 +38,6 @@ A set of exercises that helped me prepare for the [Certified Kubernetes Applicat
 - [ ] https://linuxacademy.com/site-content/uploads/2019/04/Kubernetes-Cheat-Sheet_07182019.pdf
 
 ## Other Material
-
 - [ ] https://github.com/darrenda0/certified-k8s-app-dev
 - [ ] https://github.com/dalmirog/CKADExam
 - [ ] https://github.com/bmuschko/ckad-prep
