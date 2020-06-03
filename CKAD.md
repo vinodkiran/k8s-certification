@@ -12,6 +12,7 @@ A set of exercises that helped me prepare for the [Certified Kubernetes Applicat
 - [X] Udemy - K8s for beginners (https://www.udemy.com/course/learn-kubernetes/)
 - [X] Udemy - CKAD Course (https://www.udemy.com/course/certified-kubernetes-application-developer/)
 - [ ] Udemy - Kubernetes Mastery (https://www.udemy.com/course/kubernetesmastery/)
+- [X] Linux Academy - Certified Kubernetes Application Developer (CKAD)
 - [X] KodeKloud - Labs - Certified Kubernetes Application Developer (https://kodekloud.com/courses/- kubernetes-certification-course-labs)
 - [X] Jérôme (@jpetazzo)
     - [X] https://velocity-2019-11.container.training/#1
@@ -27,8 +28,8 @@ A set of exercises that helped me prepare for the [Certified Kubernetes Applicat
 ## Practice, Practice, Practice
 - [ ] https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681
 - [ ] https://github.com/dgkanatsios/CKAD-exercises
-- [ ] https://github.com/bmuschko/ckad-prep 
-- [ ] https://github.com/twajr/ckad-prep-notes
+- [X] https://github.com/bmuschko/ckad-prep 
+- [X] https://github.com/twajr/ckad-prep-notes#tasks-from-kubernetes-doc 
 
 ## Examination Tips
 - [ ] Four Week Plan to crack CKAD (https://github.com/jbigtani/crack-CKAD)
