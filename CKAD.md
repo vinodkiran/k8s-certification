@@ -11,13 +11,13 @@ A set of exercises that helped me prepare for the [Certified Kubernetes Applicat
 ## Online Learning Material
 - [X] Udemy - K8s for beginners (https://www.udemy.com/course/learn-kubernetes/)
 - [X] Udemy - CKAD Course (https://www.udemy.com/course/certified-kubernetes-application-developer/)
-- [ ] Udemy - Kubernetes Mastery (https://www.udemy.com/course/kubernetesmastery/)
+- [X] Udemy - Kubernetes Mastery (https://www.udemy.com/course/kubernetesmastery/)
 - [X] Linux Academy - Certified Kubernetes Application Developer (CKAD)
 - [X] KodeKloud - Labs - Certified Kubernetes Application Developer (https://kodekloud.com/courses/- kubernetes-certification-course-labs)
 - [X] Jérôme (@jpetazzo)
     - [X] https://velocity-2019-11.container.training/#1
     - [X] https://2020-03-qcon.container.training/
-- [ ] https://trainings.kubernauts.sh/ 
+- [X] https://trainings.kubernauts.sh/ 
 - [ ] https://docs.google.com/spreadsheets/d/1hoyNr0xBLKEZNjefiqQTYweGmWQ4Qc-6LVgkuQSm99o/edit?usp=sharing
 
 ## Online Labs
@@ -33,17 +33,16 @@ A set of exercises that helped me prepare for the [Certified Kubernetes Applicat
 
 ## Examination Tips
 - [ ] Four Week Plan to crack CKAD (https://github.com/jbigtani/crack-CKAD)
-- [ ] https://github.com/twajr/ckad-prep-notes
 - [ ] https://medium.com/faun/my-story-towards-cka-ckad-and-some-tips-daf495e711a9
-- [ ] https://www.linkedin.com/pulse/kubernetes-certification-cka-ckad-exam-tips-gineesh-madapparambath 
-- [ ] https://linuxacademy.com/site-content/uploads/2019/04/Kubernetes-Cheat-Sheet_07182019.pdf
+- [X] https://www.linkedin.com/pulse/kubernetes-certification-cka-ckad-exam-tips-gineesh-madapparambath 
+- [X] https://linuxacademy.com/site-content/uploads/2019/04/Kubernetes-Cheat-Sheet_07182019.pdf
 
 ## Other Material
-- [ ] https://github.com/darrenda0/certified-k8s-app-dev
-- [ ] https://github.com/dalmirog/CKADExam
 - [ ] https://github.com/bmuschko/ckad-prep
+- [ ] https://github.com/darrenda0/certified-k8s-app-dev
+- [X] https://github.com/dalmirog/CKADExam
 - [ ] https://github.com/mogueye87/kubernetes-certified-application-developer
-- [ ] https://github.com/Shehanka/CKAD-training
+- [X] https://github.com/Shehanka/CKAD-training
 - [ ] https://github.com/amazingandyyy/k8-cert
 - [ ] https://github.com/mransbro/ckad-study-notes 
 - [ ] https://github.com/johandry/CKAD
