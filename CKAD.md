@@ -26,8 +26,8 @@ A set of exercises that helped me prepare for the [Certified Kubernetes Applicat
 3. https://killer.sh/
 
 ## Practice, Practice, Practice
-- [ ] https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681
-- [ ] https://github.com/dgkanatsios/CKAD-exercises
+- [X] https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681
+- [X] https://github.com/dgkanatsios/CKAD-exercises
 - [X] https://github.com/bmuschko/ckad-prep 
 - [X] https://github.com/twajr/ckad-prep-notes#tasks-from-kubernetes-doc 
 
